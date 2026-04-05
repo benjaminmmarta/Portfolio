@@ -1,0 +1,18 @@
+  # macOS
+  .DS_Store                                                                                                                                              
+  .AppleDouble                                                                                                                                           
+  .LSOverride                                                                                                                                            
+                  
+  # Windows                                                                                                                                              
+  Thumbs.db       
+  Desktop.ini
+
+  # VS Code
+  .vscode/
+
+  # JetBrains (WebStorm, etc.)                                                                                                                           
+  .idea/
+                                                                                                                                                         
+  # npm (if you ever use any build tools)                                                                                                                
+  node_modules/
+  .env
